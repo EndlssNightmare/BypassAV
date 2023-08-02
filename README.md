@@ -8,6 +8,9 @@
 >
 >Obs: These scripts are for educational purposes only. Use them at your own risk because I will not be responsible for your actions!
 
+>Works on Parrot OS and Kali Linux!
+>
+
 <br>
 
 <p align="center">
