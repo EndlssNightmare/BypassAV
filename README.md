@@ -2,7 +2,7 @@
 
 <br>
 
->This repository focuses on storing a script written in c++ in order to evade windows defender, also using a metasploit payload
+>This repository focuses on storing a memory injection code written in c++ in order to evade windows defender, also using a metasploit payload.
 >
 
 >
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-	<img width="400" height="400" src="">
+	<img width="400" height="400" src="https://github.com/EndlssNightmare/BypassAV/blob/main/Fotos/metasploit-ascii-1-2.png">
 </p>
 
 <br>
