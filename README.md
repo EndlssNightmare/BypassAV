@@ -45,11 +45,11 @@ Upgrade your apt package: `sudo apt update && sudo apt upgrade`
 
 <br>
 
-Install the C/C++ compiler: `apt-get install g++-mingw-w64-x86-64`
+Install the C/C++ compiler: `sudo apt-get install g++-mingw-w64-x86-64`
 
 <br>
 
-Compile the code: `x86_x64-w64-mingw32-g++ --static -o name.exe BypassAV.cpp -fpermissive -lsw2_32`
+Compile the code: `x86_x64-w64-mingw32-g++ --static -o name.exe BypassAV.cpp -fpermissive -lws2_32`
 
 <br>
 
