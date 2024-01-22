@@ -33,7 +33,7 @@
   >
 
   >
-  >Metasploit Framework:<a href="https://www.metasploit.com"> Metasploit Framework</a>>
+  >Metasploit Framework:<a href="https://www.metasploit.com"> Metasploit Framework</a>
   >
 <br>
 
