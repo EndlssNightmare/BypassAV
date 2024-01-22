@@ -6,9 +6,9 @@
 >
 
 >
->Obs: These scripts are for educational purposes only. Use them at your own risk because I will not be responsible for your actions!
+>Obs: These scripts are for educational purposes only. Use them at your own risk!
 
->Works on Parrot OS and Kali Linux!
+>Works on Linux!
 >
 
 <br>
